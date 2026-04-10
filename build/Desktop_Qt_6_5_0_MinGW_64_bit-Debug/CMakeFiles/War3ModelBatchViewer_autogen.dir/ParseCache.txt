@@ -1788,6 +1788,6 @@ C:/Users/IOS/Downloads/War3ModelViewer/src/settingsdialog.h
  mdp:D:/Qt/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
 C:/Users/IOS/Downloads/War3ModelViewer/src/ModelParser.cpp
 C:/Users/IOS/Downloads/War3ModelViewer/src/ModelViewer.cpp
-C:/Users/IOS/Downloads/War3ModelViewer/src/main.cpp
 C:/Users/IOS/Downloads/War3ModelViewer/src/mainwindow.cpp
+C:/Users/IOS/Downloads/War3ModelViewer/src/main.cpp
 C:/Users/IOS/Downloads/War3ModelViewer/src/settingsdialog.cpp
